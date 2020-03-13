@@ -1,5 +1,6 @@
 # Acoustic scattering and forces on an arbitrarily sized fluid sphere by a general acoustic field
 ## Authors: M. Pessôa, A.A.R. Neves 
+Contact information: matheus.pessoa@mail.mcgill.ca, antonio.neves@ufabc.edu.br
 
 ### General description
 In the .nb files we describe how we obtained results presented in the paper Acoustic scattering and forces on an arbitrarily sized fluid sphere by a general acoustic field.
