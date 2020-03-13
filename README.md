@@ -23,7 +23,7 @@ and obtaining the (x,y,z) components for scattering <a href="https://www.codecog
 
 Describes the convergence methods used for the scattered field coefficient <a href="https://www.codecogs.com/eqnedit.php?latex=C_{lm}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?C_{lm}" title="C_{lm}" /></a>
 
-###Figures_stationary waves_v2 .nb
+### Figures_stationary waves_v2 .nb
 
 Using the incident plane wave scattering on a sphere, using the expression for incident pressure field,
 
