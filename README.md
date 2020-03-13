@@ -7,4 +7,4 @@ Simulations include the scattering of a plane wave emitted on a spherical surfac
 
 In this repository: 
  - Bessel_PressureField_v1.nb corresponds to the reconstruction of an arbitrarily located Bessel Beam reconstructed by the multipole expansion coefficients.
- - Convergence_V1.nb describes the convergence methods used for <img src="https://latex.codecogs.com/gif.latex?C_{lm} " /> 
+ - Convergence_V1.nb describes the convergence methods used for <a href="https://www.codecogs.com/eqnedit.php?latex=C_{lm}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?C_{lm}" title="C_{lm}" /></a>
